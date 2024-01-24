@@ -1,0 +1,15 @@
+{
+  "name": "testserver",
+  "version": "1.0.0",
+  "description": "This is for testing purpose, will be used for port forwarding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^21.2.0"
+  }
+}
